@@ -27,7 +27,7 @@ big-shoulders-stencil{
         background: rgba(0, 0, 0, 0.7);
         padding: 10px 20px;
         z-index: 1000;
-        background-image: url(/Imagenes/fondoNav2.jpg);
+        background-image: url(fondoNav2.jpg);
         background-size: 500px 200px;
         background-color: rgba(55, 55, 55, 0.5); /* Color negro con opacidad */
         background-blend-mode: multiply;
